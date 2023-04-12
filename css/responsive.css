@@ -1,0 +1,443 @@
+@media (min-width:320px) and (max-width:575.98px){
+    nav ul li {
+        margin-left: 0px;
+    }  
+  .navbar-toggler:focus{
+        box-shadow: 0;
+    } 
+    nav ul li a::after {
+        left: 0;
+        transform: translateX(0);
+    }  
+    nav ul li .dropdown {
+        top: 4px;
+        left: 100px;
+        z-index: 5;
+    }
+    #bannerpart h1 {
+        font-size: 33px;
+        width: auto;
+        margin-top: 120px;
+        line-height: 129%;
+    }
+    #bannerpart p {
+        font-size: 14px;
+        line-height: 21px;
+        width: auto;
+    }
+    #bannerpart .search button {
+        position: relative;
+        top: 16px;
+        right: -4px;
+        transform: translateX(0);
+        width: 100%;
+    }
+    #bannerpart .search input {
+        padding: 14px 0 12px 18px;
+        width: 100%;
+    }
+    #bannerpart .search input::placeholder{
+        font-size: 12px;
+    }
+    #bannerpart .search i {
+        display: none;
+    }
+    #bannerpart .box {
+        width: 369px;
+        flex-wrap: wrap;
+    }
+    #bannerpart img{
+            width: 100%;
+            margin-top: -239px;
+    }
+    #property-part h2 {
+        font-size: 27px;
+        line-height: 128%;
+        width: auto;
+        margin-top: -62px;
+    }
+    #property-part .item p {
+        font-size: 14px;
+        line-height: 21px;
+        margin-top: 18px;
+        margin-bottom: 50px;
+    }
+    #residen-part .img .front {
+        top: 78px;
+        left: 51px;
+        width: 98%;
+    }  
+      #residen-part .img .frnt {
+        
+        width: 90%;
+    }
+    
+    #residen-part h4 {
+        font-size: 21px;
+        line-height: 121%;
+        width: auto;
+        margin-top: 28px;
+    }
+    #residen-part p {
+        font-size: 13px;
+        margin-top: 19px;
+    }
+    #residen-part a {
+        font-size: 13px;
+        padding: 11px 12px 12px 12px;
+    }
+    #residen-part a i {
+        display: none;
+    }
+    #residen-part .Explore {
+        padding-left: 13px;
+    }
+    #residen-part a {
+        margin-right: 0px;
+    } 
+#kota-part img{
+    width: 96%;
+}
+#footer{
+    padding: 10px 0px;
+}
+.footerbox {
+	flex-wrap: wrap;
+}
+#footer h2 {
+	font-size: 33px;
+	margin-left: -37px;
+	padding: 12px 0;
+}
+
+#footer .box3 {
+	margin-top: 34px;
+}
+.box2 i {
+	font-size: 22px;
+	top: 27px;
+	left: 17px;
+}
+.box2 p {
+	top: 56px;
+	left: 72px;
+}
+.box3 a {
+	padding: 14px 44px;
+	bottom: 24px;
+	left: 51.5px;
+}
+.box2 a {
+	padding: 12px 47px;
+	left: 37px;
+}
+#footer .img {
+	margin-left: 54px;
+}
+.iconparttt i {
+	padding-left: 18px;
+}
+#footer h2 {
+	width: 22%;
+	margin-left: 3px;
+	margin-top: 2px;
+}
+    /* ================ */ 
+}
+
+@media (min-width:576px) and (max-width:767.98px){
+    nav ul li {
+        margin-left: 0px;
+    }   
+    nav ul li a::after {
+        left: 0;
+        transform: translateX(0);
+    }  
+    nav ul li .dropdown {
+        top: 4px;
+        left: 100px;
+        z-index: 5;
+    } 
+    #bannerpart h1 {
+        font-size: 29px;
+        width: auto;
+    } 
+    #bannerpart p {
+        font-size: 18px;
+        line-height: 27px;
+        width: auto;
+    }
+    #bannerpart .search i {
+        top: 39%;
+        left: 18px;
+    }
+    #bannerpart .search input {
+        width: 100%;
+        padding: 23px 0 23px 35px;
+    }
+    #bannerpart .search button {
+        padding: 8px 22px;
+        top: 23%;
+        right: -40px;
+    }
+    #bannerpart img{
+        display: none;
+    }
+    #property-part h2 {
+        font-size: 36px;
+        line-height: 150%;
+        margin-top: -52px;
+    }
+    #residen-part .img .front {
+        top: 45px;
+        left: 80px;
+        width: 78%;
+    }
+    #residen-part h4 {
+        font-size: 37px;
+        line-height: 135%;
+        width: auto;
+        margin-top: 28px;
+    }
+    #residen-part p {
+        font-size: 16px;
+        margin-top: 18px;
+    }
+    #residen-part a {
+        font-size: 16px;
+        padding: 13px 15px 13px 39px;
+        margin-right: 48px;
+    }
+    #residen-part a i {
+        left: 16px;
+    }
+    #residen-part .Explore {
+        padding-left: 26px;
+    }
+    #kota-part h3 {
+        margin-top: 22px;
+    }
+    #kota-part .text-part p {
+        font-size: 19px;
+    }
+    #kota-part img{
+        width: 100%;
+    }
+    #footer{
+        position: relative;
+    }
+    .wood{
+        position: absolute;
+        top: 34px;
+        left: -80px;
+    }
+     .woodd {
+        position: absolute;
+        top: 34px;
+        right: -175px;
+    }
+    #footer h2 {
+        font-size: 30px;
+    }
+    .footerbox {
+        margin-top: 57px;
+        margin-left: -14px;
+    }
+    
+    .box2 i {
+        font-size: 20px;
+        top: 27px;
+        left: 19px;
+    }
+    .box2 h6 {
+        top: 21px;
+        left: 76px;
+    }
+    .box2 p {
+        font-size: 14px;
+        top: 56px;
+        left: 71px;
+    }
+    .box2 a {
+        padding: 13px 44px;
+    }
+    #footer .img {
+        margin-top: 29px;
+        margin-left: 45px;
+    }
+   /* ================ */
+}
+
+@media (min-width:768px) and (max-width:991.98px){
+    nav ul li {
+        margin-left: 0px;
+    }   
+    nav ul li a::after {
+        left: 0;
+        transform: translateX(0);
+    }  
+    nav ul li .dropdown {
+        top: 4px;
+        left: 100px;
+        z-index: 5;
+    } 
+    #bannerpart h1 {
+        font-size: 51px;
+        width: auto;
+    }
+    #bannerpart .search i {
+        top: 40%;
+        left: 30px;
+    }
+    #bannerpart .box .item {
+        margin-right: 123px;
+    }
+    #bannerpart .search button {
+        padding: 14px 52px;
+        right: -38px;
+    }
+    #bannerpart img{
+        display: none;
+    }
+    #property-part h2 {
+        font-size: 39px;
+        line-height: 140%;
+        margin-bottom: 64px;
+        margin-top: -40px;
+        width: auto;
+    }
+    #property-part .item p {
+        margin-bottom: 38px;
+    }
+    #property-part .item {
+        width: auto;
+        height: 81%;
+    }
+    #residen-part {
+        padding-bottom: 67px;
+    }
+    #residen-part .img .frnt {
+        left: 47px;
+        position: absolute;
+    }
+    #kota-part .text-part p {
+        font-size: 20px;
+    }
+   #residen-part .img .front {
+	top: 31px;
+	left: 150px;
+	width: 71%;
+}
+#residen-part h4 {
+	margin-top: 542px;
+	margin-bottom: 24px;
+}
+#residen-part a {
+	margin-left: 47px;
+}
+#residen-part .Explore {
+	margin-left: 28px;
+}
+    #residen-part p {
+        margin-bottom: 25px;
+    }
+    .wood{
+        margin-left: -120px;
+    }
+   .woodd {
+        margin-left: 198px;
+        margin-top: -53px;
+    }
+    /* ================= */
+}
+
+@media (min-width:992px) and (max-width:1199.98px){
+    #bannerpart h1 {
+        font-size: 51px;
+    }
+    #bannerpart img{
+        margin-top: -1px;
+    }
+    #bannerpart .search input {
+        width: 100%;
+        padding: 23px 0 23px 47px;
+    }
+    #bannerpart .search button {
+        right: -32px;
+    }
+    #bannerpart .search i {
+        top: 38%;
+    }
+    #residen-part .img .front {
+        top: 26px;
+        left: 66px;
+        width: 87%;
+    }
+    #residen-part img{
+        width: 60%;
+    }
+    #residen-part h4 {
+        font-size: 28px;
+        line-height: 144%;
+        width: auto;
+    }
+     
+    #residen-part p {
+        margin-top: 20px;
+        margin-bottom: 23px;
+    }
+    #residen-part a {
+        padding: 12px 30px 13px 56px;
+    }
+    #residen-part a i {
+        left: 28px;
+    }
+    #residen-part .Explore {
+        padding-left: 18px;
+    }
+    #kota-part img {
+      width: 100%;
+    }
+    #residen-part a {
+        margin-right: 14px;
+    }
+
+    #kota-part h3 {
+        margin-top: 18px;
+    }
+    #kota-part .text-part p {
+        font-size: 14px;
+    }
+    .box2 i {
+        font-size: 16px;
+        top: 24px;
+        left: 16px;
+    }
+    .box2 h6 {
+        font-size: 15px;
+        top: 21px;
+        left: 58px;
+    }
+    .box2 p {
+        font-size: 14px;
+        top: 48px;
+        left: 53px;
+    }
+    .box2 a {
+        font-size: 10px;
+        padding: 14px 46px;
+    }
+    .footerbox {
+        column-gap: 28px;
+        margin-top: 55px;
+        margin-left: -18px;
+    }
+    #footer .img {
+        margin-top: 53px;
+        margin-left: 36px;
+    }
+    .iconparttt i {
+        padding-left: 38px;
+    }
+    /* =============== */
+}
